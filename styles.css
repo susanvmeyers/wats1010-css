@@ -1,6 +1,28 @@
 /* This is where styles are defined for your page. */
 /* One style is provided as example. */
+body {
+  background-image: url('images/sand.jpg');
+}
+aside.more-info img {
+  width: 150px;
+  height: auto;
+}
+aside.more-info {
+      background: cadetblue;
+    padding: 10px;
+}
+ul.poem {
+      list-style-type: none;
+}
+aside.body {background-color: cadetblue
+}
 
-h1 {
-    color: green;
+ul.social-links { 
+  font-family: "Arial"
+}
+foot.page-footer {background-color: cadetblue
+}
+
+.poem li {
+  font-size: large;
 }
